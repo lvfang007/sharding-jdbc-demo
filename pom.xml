@@ -11,6 +11,7 @@
         <module>sharding-jdbc-globalTable</module>
         <module>sharding-jdbc-read-write</module>
         <module>sharding-jdbc-verticalTable</module>
+        <module>sharding-jdbc-synthesize-example</module>
     </modules>
 
     <parent>
@@ -47,7 +48,7 @@
             <dependency>
                 <groupId>org.projectlombok</groupId>
                 <artifactId>lombok</artifactId>
-                <version>1.18.0</version>
+                <version>1.18.8</version>
             </dependency>
 
             <dependency>
