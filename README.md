@@ -17,7 +17,7 @@
         sharding-jdbc-read-write
     公共表：
         sharding-jdbc-globalTable
-    综合案例(shopping)：
+    综合应用案例(shopping)：
         sharding-jdbc-synthesize-example
 
 ## 拆分策略
